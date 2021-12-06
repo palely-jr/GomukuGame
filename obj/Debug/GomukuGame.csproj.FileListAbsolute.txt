@@ -1,0 +1,7 @@
+C:\Users\Eric Diender\Documents\Abhi\UNI\OOD\GomukuGame\GomukuGame\bin\Debug\GomukuGame.exe.config
+C:\Users\Eric Diender\Documents\Abhi\UNI\OOD\GomukuGame\GomukuGame\bin\Debug\GomukuGame.exe
+C:\Users\Eric Diender\Documents\Abhi\UNI\OOD\GomukuGame\GomukuGame\bin\Debug\GomukuGame.pdb
+C:\Users\Eric Diender\Documents\Abhi\UNI\OOD\GomukuGame\GomukuGame\obj\Debug\GomukuGame.csproj.AssemblyReference.cache
+C:\Users\Eric Diender\Documents\Abhi\UNI\OOD\GomukuGame\GomukuGame\obj\Debug\GomukuGame.csproj.CoreCompileInputs.cache
+C:\Users\Eric Diender\Documents\Abhi\UNI\OOD\GomukuGame\GomukuGame\obj\Debug\GomukuGame.exe
+C:\Users\Eric Diender\Documents\Abhi\UNI\OOD\GomukuGame\GomukuGame\obj\Debug\GomukuGame.pdb
